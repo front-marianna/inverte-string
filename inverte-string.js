@@ -10,4 +10,4 @@ function inverterString(str) {
 
 const minhaString = "Marianna";
 const stringInvertida = inverterString(minhaString);
-console.log(stringInvertida); // !dlroW ,olleH
+console.log(stringInvertida); // annairaM
